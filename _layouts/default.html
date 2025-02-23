@@ -43,10 +43,6 @@
               throwOnError : false
             });
         });
-        document.addEventListener("DOMContentLoaded", function() {
-            let scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
-            document.body.style.marginRight = scrollbarWidth + "px";
-        });
     </script>
     <script src="{{ '/assets/js/common.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/bubble_visual_hash.js' | relative_url }}"></script>
