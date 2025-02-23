@@ -29,16 +29,17 @@ portrait_caption: >-
   My portrait.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Yonsei University
+  logo: /assets/images/badges/Yonsei_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Department of Artificial Intelligence <br/>
+    M.S./Ph.D. Student
+  date: Mar. 2025 - present
+- name: Yonsei University
+  logo: /assets/images/badges/Yonsei_circle.png
+  position: >- 
+    B.S. in Computer Science and Engineering
+  date: Mar. 2020 - Feb. 2025
 
 # experience:
 # - name: Peking University
@@ -47,9 +48,9 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Honors Award
+  date: 1st semester, 2021
+- name: Honors Award
+  date: 2nd semester, 2020
+- name: Highest Honors Award
+  date: 1st semester, 2020
