@@ -42,7 +42,10 @@
               ],
               throwOnError : false
             });
-            document.body.style.marginRight = (window.innerWidth - document.documentElement.clientWidth) + "px";
+        });
+        document.addEventListener("DOMContentLoaded", function() {
+            let scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
+            document.body.style.marginRight = scrollbarWidth + "px";
         });
     </script>
     <script src="{{ '/assets/js/common.js' | relative_url }}"></script>
