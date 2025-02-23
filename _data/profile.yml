@@ -9,7 +9,7 @@ positions:
 
 email: "donguk.kwon@yonsei.ac.kr"
 # cv_link: link-to-your-cv-file
-gscholar: false  # This is an example, replace it with your own Google Scholar ID
+gscholar: z5aKNRwAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: KWONDU
 twitter: false  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -21,7 +21,7 @@ twitter: false  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am Donguk Kwon.
+    I'm an Integrated M.S./Ph.D. student at <a href="https://diyonsei.notion.site/">Yonsei University Data & Language Intelligence Lab</a>, advised by Prof. <a href="https://donalee.github.io/">Dongha Lee</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
