@@ -8,5 +8,6 @@ vendor/
 Gemfile.lock
 
 .DS_Store
+.vscode
 .venv
 Pipfile*
