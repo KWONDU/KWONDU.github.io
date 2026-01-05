@@ -24,7 +24,11 @@ short_bio: >-
     I'm an Integrated M.S./Ph.D. student at <a href="https://dli.yonsei.ac.kr">Yonsei University Data & Language Intelligence Lab</a>, advised by Prof. <a href="https://donalee.github.io">Dongha Lee</a>.
   </p>
   <p>
-    My primary research interests lie in structured data reasoning (e.g., table) and personalized aesthetic assessment, especially in fashion domain.
+    My primary research interests lie in <br/>
+    <ul>
+      <li>structured data reasoning and</li>
+      <li>personalized aesthetic assessment (PAA), especially in fashion domain.</li>
+    </ul>
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
