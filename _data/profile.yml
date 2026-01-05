@@ -45,30 +45,21 @@ education:
   date: Mar. 2020 - Feb. 2025
 
 experience:
-- name: CEOS
+- name: Sinchon University Alliance IT Startup Club, CEOS
   logo: /assets/images/badges/CEOS_circle.png
-  position: >-
-    Sinchon University Alliance IT Startup Club <br/>
-    Web Front-end Part Leader
+  position: Web Front-end Part Leader
   date: Aug. 2025 - Jan. 2026
-- name: Yonsei University
+- name: College of Engineering Student Council
   logo: /assets/images/badges/Yonsei_circle.png
-  position: >-
-    College of Engineering <br/>
-    Student Council Vice President
+  position: Vice President
   date: Dec. 2022 - May. 2023
-- name: Yonsei University
+- name: Department of Computer Science and Engineering Student Council
   logo: /assets/images/badges/Yonsei_circle.png
-  position: >-
-    Department of Computer Science and Engineering <br/>
-    Student Council President
+  position: President
   date: Dec. 2021 - May. 2023
-- name: SHADOWS
+- name: College of Life Science and Biotechnology Dance Club, SHADOWS
   logo: /assets/images/badges/SHADOWS_circle.png
-  position: >-
-    Yonsei University <br/>
-    College of Life Science and Biotechnology <br/>
-    Dance Club President
+  position: President
   date: Jan. 2021 - Jun. 2022
 
 awards:
