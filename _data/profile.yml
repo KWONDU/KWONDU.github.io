@@ -4,7 +4,7 @@ navbar_name: "Donguk Kwon"
 
 positions:
 - logo: /assets/images/badges/Yonsei_circle.png
-  name: Yonsei University - DLI Lab
+  name: DLI Lab, Yonsei University
 
 
 email: "donguk.kwon@yonsei.ac.kr"
@@ -21,7 +21,10 @@ twitter: false  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I'm an Integrated M.S./Ph.D. student at <a href="https://diyonsei.notion.site/">Yonsei University Data & Language Intelligence Lab</a>, advised by Prof. <a href="https://donalee.github.io/">Dongha Lee</a>.
+    I'm an Integrated M.S./Ph.D. student at <a href="https://dli.yonsei.ac.kr">Yonsei University Data & Language Intelligence Lab</a>, advised by Prof. <a href="https://donalee.github.io">Dongha Lee</a>.
+  </p>
+  <p>
+    My primary research interests lie in structured data reasoning (e.g., table) and personalized aesthetic assessment, especially in fashion domain.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -41,11 +44,32 @@ education:
     B.S. in Computer Science and Engineering
   date: Mar. 2020 - Feb. 2025
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: CEOS
+  logo: /assets/images/badges/CEOS_circle.png
+  position: >-
+    Sinchon University Alliance IT Startup Club
+    Web Front-end Part Leader
+  date: Aug. 2025 - Jan. 2026
+- name: Yonsei University
+  logo: /assets/images/badges/Yonsei_circle.png
+  position: >-
+    College of Engineering <br/>
+    Student Council Vice President
+  date: Dec. 2022 - May. 2023
+- name: Yonsei University
+  logo: /assets/images/badges/Yonsei_circle.png
+  position: >-
+    Department of Computer Science and Engineering <br/>
+    Student Council President
+  date: Dec. 2021 - May. 2023
+- name: SHADOWS
+logo: /assets/images/badges/SHADOWS_circle.png
+position: >-
+  Yonsei University <br/>
+  College of Life Science and Biotechnology <br/>
+  Dance Club President
+date: Jan. 2021 - Jun. 2022
 
 awards:
 - name: Honors Award
