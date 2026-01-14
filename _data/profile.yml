@@ -21,14 +21,10 @@ twitter: false  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I'm an Integrated M.S./Ph.D. student at <a href="https://dli.yonsei.ac.kr">Yonsei University Data & Language Intelligence Lab</a>, advised by Prof. <a href="https://donalee.github.io">Dongha Lee</a>.
+    I'm an Integrated M.S./Ph.D. student at the <a href="https://dli.yonsei.ac.kr">Data & Language Intelligence Lab, Yonsei University</a>, advised by Prof. <a href="https://donalee.github.io">Dongha Lee</a>.
   </p>
   <p>
-    My primary research interests lie in <br/>
-    <ul>
-      <li>structured data reasoning and</li>
-      <li>personalized aesthetic assessment (PAA), especially in fashion domain.</li>
-    </ul>
+    My primary research interests lie in <b>structured data reasoning</b> for language models (e.g., tabular and HTML data) and <b>personalized aesthetic assessment (PAA)</b>, with an emphasis on fashion-related applications.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
